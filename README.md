@@ -1,0 +1,2 @@
+# es5_script_score_plugin
+elasticsearch5+ 脚本打分插件,默认magic_score_script
